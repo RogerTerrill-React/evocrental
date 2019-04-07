@@ -5,6 +5,9 @@ const ProjectList = () => {
   return (
     <div className="project-list section">
       <ProjectSummary title="Project Title"/>
+      <ProjectSummary title="Project Title"/>
+      <ProjectSummary title="Project Title"/>
+      <ProjectSummary title="Project Title"/>
     </div>
   );
 };
